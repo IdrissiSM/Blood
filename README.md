@@ -25,3 +25,9 @@ Au premier moment, nous ouvrons l'application une interface (rouge) avec le logo
 Après avoir fait cela, une autre intent commence et nous emmène sur la page principale qui n'est qu'une liste de donateurs `(car l'objectif principal de l'application est de faciliter la portée des personnes au dons de sang, nous avons fait notre page d'accueil)`. Dans la même page, nous avons en haut une dropdown qui a un autre élément qui nous amène aux demandes de sang (requests) pour voir ce que les autres demandent et quel type de sang ils ont besoin et toutes les informations nécessaires pour les atteindre.
 
 Dans cette page principale, vous pouvez remarquer le bouton "Supprimer" (delete) apparaissant pour quelques éléments, ce bouton Supprimer est juste pour l'utilisateur actuel de l'application qui a le droit de supprimer sa demande quand il le souhaite. Pour chaque personne (item), nous avons son profil avec des informations détaillées et un bouton pour appeler cette personne directement en utilisant une intent explicite. Il existe également une autre interface qui est le profil utilisateur actuel qui peut mettre à jour ses données à tout moment et les enregistrer dans la base de données.
+
+### Technologies
+
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&labelColor=black&logo=xml&logoColor=FF6600)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=003B57)
