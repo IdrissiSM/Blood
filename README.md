@@ -8,7 +8,7 @@
 
 ## POURQUOI CE PROJET ?
 
-Les réserves nationales de sang ne permettent de couvrir que quelques jours de besoins. La solidarité et l'entraide sont des traits communs à tous les Marocains. Pourtant, malgré la bonne volonté, beaucoup d'entre nous ne savent pas où aller ni comment s'y prendre. HAYAT est donc là pour répondre à toutes ces questions relatives au don de sang et vous indiquer le centre de prélèvement le plus proche. HAYAT est également à votre disposition lorsque vous avez besoin de sang pour publier votre annonce et la partager au plus grand nombre au Maroc.
+Les réserves nationales de sang ne permettent de couvrir que quelques jours de besoins. La solidarité et l'entraide sont des traits communs à tous les Marocains. Pourtant, malgré la bonne volonté, beaucoup d'entre nous ne savent pas où aller ni comment s'y prendre. Blood++ est donc là pour répondre à toutes ces questions relatives au don de sang et vous indiquer le centre de prélèvement le plus proche. Blood++ est également à votre disposition lorsque vous avez besoin de sang pour publier votre annonce et la partager au plus grand nombre au Maroc.
 
 On a fait cette appli dans un projet du dev web. et on a penser a etendre l'application en mobile aussi.
 
@@ -20,8 +20,8 @@ Cette idée d'application existe au Maroc C'est une application appelée "Leena"
 
 ## APP OVERVIEW :
 
-![LOGIN](https://github.com/IdrissiSM/Blood/blob/main/HAYAT/captures/Blood++_1.png)
-![LOGIN](https://github.com/IdrissiSM/Blood/blob/main/HAYAT/captures/Blood++_2.png)
+![LOGIN](https://github.com/IdrissiSM/Blood/blob/main/Blood++/captures/Blood++_1.png)
+![LOGIN](https://github.com/IdrissiSM/Blood/blob/main/Blood++/captures/Blood++_2.png)
 
 
 ## DESCRIPTION DU UX USER-EXPERIENCE :
